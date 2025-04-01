@@ -43,7 +43,7 @@
   <p>Je cherche un CDI (remote ou hybride) mêlant analyse, automatisation, ou dev technique dans la finance ou la data.</p>
 
   <h2>📫 Me contacter</h2>
-  <p><a href="mailto:jf.campagnolle@outlook.com">campagnolle.jf@gmail.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
+  <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
 
 </div>
 
