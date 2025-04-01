@@ -1,20 +1,25 @@
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats" alt="vessfils's GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vessfils&count_private=true&show_icons=true&theme=gotham&custom_title=Mes%20statistiques%20GitHub" />
-  </a>
-
-  <br><br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" alt="vessfils's top languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vessfils&layout=compact&langs_count=6&theme=gotham" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github-readme-stats-vessfils-projects.vercel.app" alt="vessfils's GitHub stats">
+          <img src="https://github-readme-stats-vessfils-projects.vercel.app/api?username=vessfils&count_private=true&show_icons=true&theme=gotham&custom_title=Mes%20statistiques%20GitHub" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github-readme-stats-vessfils-projects.vercel.app" alt="vessfils's top languages">
+          <img src="https://github-readme-stats-vessfils-projects.vercel.app/api/top-langs/?username=vessfils&layout=compact&langs_count=6&theme=gotham" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
   <h1>Salut ! Moi c’est Jean-François</h1>
-  <p>Analyste financier avec un background en médecine et une passion pour le développement.</p>
-  <p>J’automatise, je code, je décortique les systèmes – en C comme en Python.</p>
+  <p>Issu du monde de la finance, je suis actuellement étudiant à l'école 42, où je me spécialise en développement informatique.</p>
+  <p>Je recherche un <strong>stage en cybersécurité</strong> ou en <strong>machine learning</strong> pour mettre en pratique mes compétences en programmation, systèmes et IA.</p>
 
   <h2>💻 Compétences techniques</h2>
 
@@ -40,10 +45,9 @@
   <br>
 
   <h2>🎯 Objectif actuel</h2>
-  <p>Je cherche un CDI (remote ou hybride) mêlant analyse, automatisation, ou dev technique dans la finance ou la data.</p>
+  <p>Je cherche un <strong>stage en cybersécurité</strong> ou <strong>machine learning</strong>, pour une durée de 3 à 6 mois.</p>
 
   <h2>📫 Me contacter</h2>
   <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
 
 </div>
-
