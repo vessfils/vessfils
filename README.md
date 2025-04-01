@@ -45,7 +45,7 @@
   <br>
 
   <h2>🎯 Objectif actuel</h2>
-  <p>Je cherche un <strong>stage en cybersécurité</strong> ou <strong>machine learning</strong>, pour une durée de 3 à 6 mois.</p>
+  <p>Je cherche un <strong>stage en cybersécurité</strong> ou <strong>machine learning</strong>, pour une durée de 6 mois.</p>
 
   <h2>📫 Me contacter</h2>
   <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
