@@ -54,4 +54,10 @@
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=vessfils&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
     </a>
+    <p>  
+    &nbsp;
+    <a href="https://www.codingame.com/profile/49370ae895aeaf690b539e0356a545a00230944">
+      <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/></a>
+    <br>
+  </p>
 </div>
