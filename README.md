@@ -49,15 +49,50 @@
 
   <h2>📫 Me contacter</h2>
   <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
-  <h3>📊 Statistics</h3>
+
+  <h3>📊 Statistiques GitHub</h3>
   <p>
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=vessfils&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
     </a>
-    <p>  
     &nbsp;
     <a href="https://www.codingame.com/profile/49370ae895aeaf690b539e0356a545a00230944">
-      <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/></a>
-    <br>
+      <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/>
+    </a>
   </p>
+
+  <br>
+
+  <h2>🏫 Mon parcours à l'école 42</h2>
+  <p>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/stats?cursusId=21&coalitionId=48" alt="jcampagn's 42 stats" />
+    </a>
+  </p>
+
+  <br>
+
+  <h2>📚 Projets terminés à 42</h2>
+  <p>Voici quelques projets validés pendant mon cursus :</p>
+
+  <div align="center">
+    <!-- Exemples de projets validés -->
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="computorv1" />
+    </a>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231494" alt="snow-crash" />
+    </a>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182100" alt="minishell" />
+    </a>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182041" alt="get_next_line" />
+    </a>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182046" alt="ft_printf" />
+    </a>
+    <!-- Tu peux ajouter autant de projets que tu veux ici -->
+  </div>
+
 </div>
