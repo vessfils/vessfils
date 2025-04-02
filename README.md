@@ -77,7 +77,9 @@
 
   <div align="center">
     <!-- Exemples de projets validés -->
-   <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="jcampagn's 42 snow-crash Score" /></a>
+   <a href="https://github.com/Nimon77/badge42">
+    <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="jcampagn's 42 snow-crash Score" />
+  </a>
     
   </div>
 
