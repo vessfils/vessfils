@@ -58,9 +58,9 @@
     &nbsp;
      <a href="https://www.leetcode.com/Vessfils">
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45"/></a> 
+      &nbsp;
     <a href="https://www.codingame.com/profile/49370ae895aeaf690b539e0356a545a00230944">
       <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/>
-       &nbsp;
     </a>
   </p>
 
