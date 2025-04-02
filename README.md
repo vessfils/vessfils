@@ -159,9 +159,7 @@
   <tr>
   <td align="center">
     <strong>Libft</strong><br>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426335" alt="Libft" />
-    </a><br>
+    <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" alt="jcampagn's 42 Libft Score" /></a><br>
     Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
   </td>
   <td></td>
