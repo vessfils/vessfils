@@ -77,22 +77,8 @@
 
   <div align="center">
     <!-- Exemples de projets validés -->
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="computorv1" />
-    </a>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231494" alt="snow-crash" />
-    </a>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182100" alt="minishell" />
-    </a>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182041" alt="get_next_line" />
-    </a>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4182046" alt="ft_printf" />
-    </a>
-    <!-- Tu peux ajouter autant de projets que tu veux ici -->
+   <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="jcampagn's 42 snow-crash Score" /></a>
+    
   </div>
 
 </div>
