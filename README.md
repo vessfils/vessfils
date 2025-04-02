@@ -56,6 +56,8 @@
       <img src="https://komarev.com/ghpvc/?username=vessfils&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
     </a>
     &nbsp;
+    </p>
+    <p>
      <a href="https://www.leetcode.com/Vessfils">
       <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45"/></a> 
       &nbsp;
