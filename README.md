@@ -73,14 +73,101 @@
   <br>
 
   <h2>📚 Projets terminés à 42</h2>
-  <p>Voici quelques projets validés pendant mon cursus :</p>
+<p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
-  <div align="center">
-    <!-- Exemples de projets validés -->
-  <p><strong>snow-crash</strong></p>
-  <a href="https://github.com/Nimon77/badge42">
-    <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="jcampagn's 42 snow-crash Score" />
-  </a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <strong>Snow-Crash</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="snow-crash" />
+      </a><br>
+      Découverte de la cybersécurité via des challenges Linux (CTF).
+    </td>
+    <td align="center">
+      <strong>ft_transcendence</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" alt="ft_transcendence" />
+      </a><br>
+      Projet fullstack (NestJS/React) pour créer un jeu multijoueur en ligne.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>ft_irc</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" alt="ft_irc" />
+      </a><br>
+      Implémentation complète d’un serveur IRC en C++.
+    </td>
+    <td align="center">
+      <strong>cub3d</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" alt="cub3d" />
+      </a><br>
+      Moteur 3D raycasting façon Wolfenstein, en C avec SDL.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>minishell</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2545400" alt="minishell" />
+      </a><br>
+      Création d’un shell Unix avec parsing, redirections et pipes.
+    </td>
+    <td align="center">
+      <strong>Philosophers</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" alt="Philosophers" />
+      </a><br>
+      Implémentation de la synchronisation multithread (problème des philosophes).
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>pipex</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2507754" alt="pipex" />
+      </a><br>
+      Reproduction de la mécanique des pipes UNIX.
+    </td>
+    <td align="center">
+      <strong>so_long</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" alt="so_long" />
+      </a><br>
+      Petit jeu 2D avec déplacements, map et ennemis.
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>ft_printf</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426653" alt="ft_printf" />
+      </a><br>
+      Reproduction de printf – gestion des formats, flags, types.
+    </td>
+    <td align="center">
+      <strong>get_next_line</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" alt="get_next_line" />
+      </a><br>
+      Lecture ligne à ligne depuis un file descriptor (buffers).
+    </td>
+  </tr>
+  <tr>
+  <td align="center">
+    <strong>Libft</strong><br>
+    <a href="https://github.com/Nimon77/badge42">
+      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426335" alt="Libft" />
+    </a><br>
+    Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
+  </td>
+  <td></td>
+</tr>
+</table>
+
     
   </div>
 
