@@ -82,14 +82,14 @@
 
 <table style="vertical-align: top;">
   <tr>
-    <td align="center">
+    <td style="vertical-align: top;">
       <strong>Snow-Crash</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="snow-crash" />
       </a><br>
       Découverte de la cybersécurité via des challenges Linux (CTF).
     </td>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>ft_transcendence</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" alt="ft_transcendence" />
@@ -98,14 +98,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>ft_irc</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" alt="ft_irc" />
       </a><br>
       Implémentation complète d’un serveur IRC en C++.
     </td>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>cub3d</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" alt="cub3d" />
@@ -114,14 +114,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td style="vertical-align: top;">
       <strong>minishell</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2545400" alt="minishell" />
       </a><br>
       Création d’un shell Unix avec parsing, redirections et pipes.
     </td>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>Philosophers</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" alt="Philosophers" />
@@ -130,14 +130,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td style="vertical-align: top;">
       <strong>pipex</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2507754" alt="pipex" />
       </a><br>
       Reproduction de la mécanique des pipes UNIX.
     </td>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>so_long</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" alt="so_long" />
@@ -146,14 +146,14 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td style="vertical-align: top;">
       <strong>ft_printf</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426653" alt="ft_printf" />
       </a><br>
       Reproduction de printf – gestion des formats, flags, types.
     </td>
-    <td align="center">
+   <td style="vertical-align: top;">
       <strong>get_next_line</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" alt="get_next_line" />
@@ -162,7 +162,7 @@
     </td>
   </tr>
   <tr>
-  <td align="center">
+  <td style="vertical-align: top;">
     <strong>Libft</strong><br>
     <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" alt="jcampagn's 42 Libft Score" /></a><br>
     Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
