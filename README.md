@@ -80,7 +80,7 @@
   <h2>📚 Projets terminés à 42</h2>
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
-<table align="center">
+<table style="vertical-align: top;">
   <tr>
     <td align="center">
       <strong>Snow-Crash</strong><br>
