@@ -81,6 +81,14 @@
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
 <table style="display: inline-block;">
+    <tr>
+    <td style="vertical-align: top;">
+      <strong>Snow-Crash</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" alt="darkly" />
+      </a><br>
+      Découverte de la cybersécurité via des challenges Linux (CTF).
+    </td>
   <tr>
     <td style="vertical-align: top;">
       <strong>Snow-Crash</strong><br>
