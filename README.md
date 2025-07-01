@@ -81,6 +81,14 @@
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
 <table style="display: inline-block;">
+  <tr>
+    <td style="vertical-align: top;">
+      <strong>ft_linear_regression</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="ft_linear_regression" />
+      </a><br>
+      Ce projet constituera est un premiers pas dans l'intelligence artificielle et le machine learning.
+    </td>
     <tr>
     <td style="vertical-align: top;">
       <strong>darkly</strong><br>
