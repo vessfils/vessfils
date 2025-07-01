@@ -87,7 +87,7 @@
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="ft_linear_regression" />
       </a><br>
-      Ce projet constituera est un premiers pas dans l'intelligence artificielle et le machine learning.
+      Ce projet est un premiers pas dans l'intelligence artificielle et le machine learning.
     </td>
     <td style="vertical-align: top;">
       <strong>darkly</strong><br>
