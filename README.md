@@ -89,7 +89,6 @@
       </a><br>
       Ce projet constituera est un premiers pas dans l'intelligence artificielle et le machine learning.
     </td>
-    <tr>
     <td style="vertical-align: top;">
       <strong>darkly</strong><br>
       <a href="https://github.com/Nimon77/badge42">
@@ -97,7 +96,7 @@
       </a><br>
       Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
     </td>
-  <tr>
+  </tr>
     <td style="vertical-align: top;">
       <strong>Snow-Crash</strong><br>
       <a href="https://github.com/Nimon77/badge42">
