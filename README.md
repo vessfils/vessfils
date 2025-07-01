@@ -83,11 +83,11 @@
 <table style="display: inline-block;">
     <tr>
     <td style="vertical-align: top;">
-      <strong>Snow-Crash</strong><br>
+      <strong>darkly</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" alt="darkly" />
       </a><br>
-      Découverte de la cybersécurité via des challenges Linux (CTF).
+      Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
     </td>
   <tr>
     <td style="vertical-align: top;">
