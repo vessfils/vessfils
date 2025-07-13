@@ -77,7 +77,7 @@
 
   <br>
 
-  <h2>📚 Projets terminés à 42</h2>
+ <h2>📚 Projets terminés à 42</h2>
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
 <table style="display: inline-block;">
@@ -97,6 +97,7 @@
       Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
     </td>
   </tr>
+  <tr>
     <td style="vertical-align: top;">
       <strong>Snow-Crash</strong><br>
       <a href="https://github.com/Nimon77/badge42">
@@ -104,7 +105,7 @@
       </a><br>
       Découverte de la cybersécurité via des challenges Linux (CTF).
     </td>
-   <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <strong>ft_transcendence</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" alt="ft_transcendence" />
@@ -113,19 +114,35 @@
     </td>
   </tr>
   <tr>
-   <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
+      <strong>NetPractice</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2822795" alt="NetPractice" />
+      </a><br>
+      Apprentissage du réseau informatique et du routage IP à travers des exercices pratiques.
+    </td>
+    <td style="vertical-align: top;">
+      <strong>cub3d</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" alt="cub3d" />
+      </a><br>
+      Moteur 3D raycasting façon Wolfenstein, en C avec SDL.
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align: top;">
       <strong>ft_irc</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" alt="ft_irc" />
       </a><br>
       Implémentation complète d’un serveur IRC en C++.
     </td>
-   <td style="vertical-align: top;">
-      <strong>cub3d</strong><br>
+    <td style="vertical-align: top;">
+      <strong>Born2beroot</strong><br>
       <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" alt="cub3d" />
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426651" alt="Born2beroot" />
       </a><br>
-      Moteur 3D raycasting façon Wolfenstein, en C avec SDL.
+      Installation d'une VM Debian sécurisée, configuration d’un pare-feu, de sudo et monitoring avec UFW, SSH, Fail2ban...
     </td>
   </tr>
   <tr>
@@ -136,7 +153,7 @@
       </a><br>
       Création d’un shell Unix avec parsing, redirections et pipes.
     </td>
-   <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <strong>Philosophers</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" alt="Philosophers" />
@@ -152,7 +169,7 @@
       </a><br>
       Reproduction de la mécanique des pipes UNIX.
     </td>
-   <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <strong>so_long</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" alt="so_long" />
@@ -168,7 +185,7 @@
       </a><br>
       Reproduction de printf – gestion des formats, flags, types.
     </td>
-   <td style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <strong>get_next_line</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" alt="get_next_line" />
@@ -177,13 +194,21 @@
     </td>
   </tr>
   <tr>
-  <td style="vertical-align: top;">
-    <strong>Libft</strong><br>
-    <a href="https://github.com/Nimon77/badge42"><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" alt="jcampagn's 42 Libft Score" /></a><br>
-    Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
-  </td>
-  <td></td>
-</tr>
+    <td style="vertical-align: top;">
+      <strong>Inception</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3079535" alt="Inception" />
+      </a><br>
+      Déploiement d’un environnement Dockerisé (WordPress, NGINX, MariaDB, Redis...) en containers interconnectés.
+    </td>
+    <td style="vertical-align: top;">
+      <strong>Libft</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" alt="Libft" />
+      </a><br>
+      Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
+    </td>
+  </tr>
 </table>
 
     
