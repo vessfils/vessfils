@@ -82,6 +82,13 @@
 
 <table style="display: inline-block;">
   <tr>
+      <td style="vertical-align: top;">
+      <strong>ft_linear_regression</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527"" alt="dslr" />
+      </a><br>
+      Ce projet est un premiers pas dans l'intelligence artificielle et le machine learning.
+    </td>
     <td style="vertical-align: top;">
       <strong>ft_linear_regression</strong><br>
       <a href="https://github.com/Nimon77/badge42">
