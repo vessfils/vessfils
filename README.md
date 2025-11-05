@@ -19,7 +19,7 @@
 
   <h1>Salut ! Moi c’est Jean-François</h1>
   <p>Issu du monde de la finance, je suis actuellement étudiant à l'école 42, où je me spécialise en développement informatique.</p>
-  <p>Je recherche un <strong>stage en cybersécurité</strong> ou en <strong>machine learning</strong> pour mettre en pratique mes compétences en programmation, systèmes et IA.</p>
+  <p>Je recherche un <strong>stage en <strong>machine learning</strong> pour mettre en pratique mes compétences en programmation, systèmes et IA.</p>
 
   <h2>💻 Compétences techniques</h2>
 
