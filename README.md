@@ -101,7 +101,7 @@
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" alt="cloud-1" /></a>
       </a><br>
-      Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
+      Ce projet a pour but d’automatiser, avec Ansible, le déploiement sur un serveur cloud d’une stack WordPress complète (WordPress, base de données, phpMyAdmin) fonctionnant dans des containers Docker séparés, avec persistance des données et configuration réseau/TLS sécurisée.
     </td>
     <td style="vertical-align: top;">
       <strong>darkly</strong><br>
