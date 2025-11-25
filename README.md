@@ -97,6 +97,13 @@
       Ce projet est un premiers pas dans l'intelligence artificielle et le machine learning.
     </td>
     <td style="vertical-align: top;">
+      <strong>cloud1</strong><br>
+      <a href="https://github.com/Nimon77/badge42">
+        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" alt="cloud-1" /></a>
+      </a><br>
+      Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
+    </td>
+    <td style="vertical-align: top;">
       <strong>darkly</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" alt="darkly" />
