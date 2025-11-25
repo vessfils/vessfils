@@ -80,150 +80,123 @@
  <h2>📚 Projets terminés à 42</h2>
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
 
-<table style="display: inline-block;">
+<table align="center">
   <tr>
-       <td valign="top" width="50%">
-      <strong>dslr</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527" alt="dslr" />
-      </a><br>
-       Analyse et visualisation des données, puis implémentation d’une régression logistique <em>one-vs-all</em> pour recréer le Choixpeau magique.
-    </td>
-     <td valign="top" width="50%">
-      <strong>ft_linear_regression</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="ft_linear_regression" />
-      </a><br>
-      Ce projet est un premiers pas dans l'intelligence artificielle et le machine learning.
-    </td>
-     <td valign="top" width="50%">
-      <strong>cloud1</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" alt="cloud-1" /></a>
-      </a><br>
-      Ce projet a pour but d’automatiser avec Ansible sur le cloud d’une stack WordPress(WordPress, db, phpMyAdmin) fonctionnant dans des Docker séparés et persistance des données et configuration réseau/TLS sécurisée.
-    </td>
-     <td valign="top" width="50%">
-      <strong>darkly</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" alt="darkly" />
-      </a><br>
-      Ce projet a pour but de faire découvrir la sécurité en informatique dans le domaine du web (CTF).
-    </td>
+    <th style="text-align:center; padding:6px;">Projet</th>
+    <th style="text-align:center; padding:6px;">Note</th>
+    <th style="text-align:left; padding:6px;">Description</th>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>Snow-Crash</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="snow-crash" />
-      </a><br>
-      Découverte de la cybersécurité via des challenges Linux (CTF).
-    </td>
-     <td valign="top" width="50%">
-      <strong>ft_transcendence</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" alt="ft_transcendence" />
-      </a><br>
-      Projet fullstack (NestJS/React) pour créer un jeu multijoueur en ligne.
-    </td>
+    <td><strong>dslr</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527" width="110"></td>
+    <td>Analyse et visualisation des données, régression logistique <em>one-vs-all</em>.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>NetPractice</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2822795" alt="NetPractice" />
-      </a><br>
-      Apprentissage du réseau informatique et du routage IP à travers des exercices pratiques.
-    </td>
-     <td valign="top" width="50%">
-      <strong>cub3d</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" alt="cub3d" />
-      </a><br>
-      Moteur 3D raycasting façon Wolfenstein, en C avec SDL.
-    </td>
+    <td><strong>ft_linear_regression</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" width="110"></td>
+    <td>Premiers pas dans l’IA et le machine learning.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>ft_irc</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" alt="ft_irc" />
-      </a><br>
-      Implémentation complète d’un serveur IRC en C++.
-    </td>
-     <td valign="top" width="50%">
-      <strong>Born2beroot</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426651" alt="Born2beroot" />
-      </a><br>
-      Installation d'une VM Debian sécurisée, configuration d’un pare-feu, de sudo et monitoring avec UFW, SSH, Fail2ban...
-    </td>
+    <td><strong>cloud1</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" width="110"></td>
+    <td>Automatisation Ansible d’une stack WordPress Docker avec persistance & TLS.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>minishell</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2545400" alt="minishell" />
-      </a><br>
-      Création d’un shell Unix avec parsing, redirections et pipes.
-    </td>
-     <td valign="top" width="50%">
-      <strong>Philosophers</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" alt="Philosophers" />
-      </a><br>
-      Implémentation de la synchronisation multithread (problème des philosophes).
-    </td>
+    <td><strong>darkly</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" width="110"></td>
+    <td>Découverte de la sécurité web via des challenges CTF.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>pipex</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2507754" alt="pipex" />
-      </a><br>
-      Reproduction de la mécanique des pipes UNIX.
-    </td>
-     <td valign="top" width="50%">
-      <strong>so_long</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" alt="so_long" />
-      </a><br>
-      Petit jeu 2D avec déplacements, map et ennemis.
-    </td>
+    <td><strong>Snow-Crash</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" width="110"></td>
+    <td>Cybersécurité Linux via des défis CTF.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>ft_printf</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426653" alt="ft_printf" />
-      </a><br>
-      Reproduction de printf – gestion des formats, flags, types.
-    </td>
-     <td valign="top" width="50%">
-      <strong>get_next_line</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" alt="get_next_line" />
-      </a><br>
-      Lecture ligne à ligne depuis un file descriptor (buffers).
-    </td>
+    <td><strong>ft_transcendence</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" width="110"></td>
+    <td>Projet fullstack NestJS/React : jeu multijoueur en ligne.</td>
   </tr>
+
   <tr>
-     <td valign="top" width="50%">
-      <strong>Inception</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3079535" alt="Inception" />
-      </a><br>
-      Déploiement d’un environnement Dockerisé (WordPress, NGINX, MariaDB, Redis...) en containers interconnectés.
-    </td>
-     <td valign="top" width="50%">
-      <strong>Libft</strong><br>
-      <a href="https://github.com/Nimon77/badge42">
-        <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" alt="Libft" />
-      </a><br>
-      Création d'une bibliothèque standard en C (fonctions de base : chaînes, mémoire, listes...).
-    </td>
+    <td><strong>NetPractice</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2822795" width="110"></td>
+    <td>Apprentissage du routage IP et des réseaux.</td>
   </tr>
+
+  <tr>
+    <td><strong>cub3d</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" width="110"></td>
+    <td>Moteur 3D raycasting façon Wolfenstein (SDL/C).</td>
+  </tr>
+
+  <tr>
+    <td><strong>ft_irc</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" width="110"></td>
+    <td>Serveur IRC complet en C++.</td>
+  </tr>
+
+  <tr>
+    <td><strong>Born2beroot</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426651" width="110"></td>
+    <td>Installation & sécurisation d’une VM Debian (SSH, firewall, Fail2Ban…).</td>
+  </tr>
+
+  <tr>
+    <td><strong>minishell</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2545400" width="110"></td>
+    <td>Mini-shell avec parsing, pipes & redirections.</td>
+  </tr>
+
+  <tr>
+    <td><strong>Philosophers</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" width="110"></td>
+    <td>Synchronisation multithread (problème des philosophes).</td>
+  </tr>
+
+  <tr>
+    <td><strong>pipex</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2507754" width="110"></td>
+    <td>Reproduction du fonctionnement des pipes UNIX.</td>
+  </tr>
+
+  <tr>
+    <td><strong>so_long</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" width="110"></td>
+    <td>Petit jeu 2D avec déplacement, maps et ennemis.</td>
+  </tr>
+
+  <tr>
+    <td><strong>ft_printf</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426653" width="110"></td>
+    <td>Reproduction complète de printf.</td>
+  </tr>
+
+  <tr>
+    <td><strong>get_next_line</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" width="110"></td>
+    <td>Lecture ligne par ligne depuis un file descriptor.</td>
+  </tr>
+
+  <tr>
+    <td><strong>Inception</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3079535" width="110"></td>
+    <td>Environnement Dockerisé (WordPress, NGINX, MariaDB, Redis…).</td>
+  </tr>
+
+  <tr>
+    <td><strong>Libft</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" width="110"></td>
+    <td>Bibliothèque standard en C : listes, mémoire, chaînes…</td>
+  </tr>
+
 </table>
+
 
     
   </div>
