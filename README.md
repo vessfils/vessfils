@@ -14,9 +14,6 @@
       </td>
     </tr>
   </table>
-
-  <br><br>
-
   <h1>Salut ! Moi c’est Jean-François</h1>
   <p>Issu du monde de la finance, je suis actuellement étudiant à l'école 42, où je me spécialise en développement informatique.</p>
   <p>Je recherche un <strong>stage en <strong>machine learning</strong> pour mettre en pratique mes compétences en programmation, systèmes et IA.</p>
@@ -66,7 +63,6 @@
     </a>
   </p>
 
-  <br>
 
   <h2>🏫 Mon parcours à l'école 42</h2>
   <p>
@@ -75,7 +71,6 @@
     </a>
   </p>
 
-  <br>
 
  <h2>📚 Projets terminés à 42</h2>
 <p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
