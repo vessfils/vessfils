@@ -82,28 +82,28 @@
 
 <table style="display: inline-block;">
   <tr>
-      <td style="vertical-align: top;">
+       <td valign="top" width="50%">
       <strong>dslr</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527" alt="dslr" />
       </a><br>
        Analyse et visualisation des données, puis implémentation d’une régression logistique <em>one-vs-all</em> pour recréer le Choixpeau magique.
     </td>
-    <td style="vertical-align: top;">
+     <td valign="top" width="50%">
       <strong>ft_linear_regression</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" alt="ft_linear_regression" />
       </a><br>
       Ce projet est un premiers pas dans l'intelligence artificielle et le machine learning.
     </td>
-    <td style="vertical-align: top;">
+     <td valign="top" width="50%">
       <strong>cloud1</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" alt="cloud-1" /></a>
       </a><br>
       Ce projet a pour but d’automatiser avec Ansible sur le cloud d’une stack WordPress(WordPress, db, phpMyAdmin) fonctionnant dans des Docker séparés et persistance des données et configuration réseau/TLS sécurisée.
     </td>
-    <td style="vertical-align: top;">
+     <td valign="top" width="50%">
       <strong>darkly</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" alt="darkly" />
@@ -112,7 +112,7 @@
     </td>
   </tr>
   <tr>
-    <td style="vertical-align: top;">
+     <td valign="top" width="50%">
       <strong>Snow-Crash</strong><br>
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" alt="snow-crash" />
