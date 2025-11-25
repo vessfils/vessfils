@@ -101,7 +101,7 @@
       <a href="https://github.com/Nimon77/badge42">
         <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" alt="cloud-1" /></a>
       </a><br>
-      Ce projet a pour but d’automatiser avec Ansible sur le cloud d’une stack WordPress(WordPress, base de données, phpMyAdmin) fonctionnant dans des containers Docker séparés, avec persistance des données et configuration réseau/TLS sécurisée.
+      Ce projet a pour but d’automatiser avec Ansible sur le cloud d’une stack WordPress(WordPress, db, phpMyAdmin) fonctionnant dans des Docker séparés et persistance des données et configuration réseau/TLS sécurisée.
     </td>
     <td style="vertical-align: top;">
       <strong>darkly</strong><br>
