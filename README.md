@@ -81,7 +81,13 @@
     <th style="text-align:center; padding:6px;">Note</th>
     <th style="text-align:left; padding:6px;">Description</th>
   </tr>
-
+  
+  <tr>
+    <td><strong>multilayer-perceptron</strong></td>
+    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4592142" width="110"></td>
+    <td> Création from scratch d’un réseau de neurones (MLP)</td>
+  </tr>
+  
   <tr>
     <td><strong>dslr</strong></td>
     <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527" width="110"></td>
