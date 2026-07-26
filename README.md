@@ -14,9 +14,9 @@
       </td>
     </tr>
   </table>
-  <h1>Salut ! Moi c’est Jean-François</h1>
-  <p>Issu du monde de la finance, je suis actuellement étudiant à l'école 42, où je me spécialise en développement informatique.</p>
-  <p>Je recherche un <strong>stage en <strong>machine learning</strong> pour mettre en pratique mes compétences en programmation, systèmes et IA.</p>
+  <h1>Salut ! Moi c’est Jean-François 👋</h1>
+  <p>Ancien professionnel de la finance et diplômé de l’École 42, je me spécialise en développement logiciel, Machine Learning et Computer Vision.</p>
+  <p>Je recherche actuellement un <strong>poste en CDI en Machine Learning</strong> afin de contribuer à des projets concrets mêlant programmation, IA et systèmes</p>
 
   <h2>💻 Compétences techniques</h2>
 
