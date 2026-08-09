@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td>🧱 <strong>cub3D</strong></td>
-      <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — porté en JS/Canvas, portes et minimap incluses.</td>
+      <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — portes et minimap incluses.</td>
       <td align="center">
         <a href="https://github.com/vessfils/cub3d-web">Demo</a>
       </td>
