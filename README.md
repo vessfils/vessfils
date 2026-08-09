@@ -27,14 +27,14 @@
       <th style="text-align:center; padding:6px;">Liens</th>
     </tr>
     <tr>
-      <td><strong>learn2slither</strong></td>
+      <td><strong>Learn2slither</strong></td>
       <td>Un serpent qui apprend à jouer avec du Q-learning (Python/PyTorch) — regarde l'agent entraîné jouer, ou joue toi-même.</td>
       <td align="center">
         <a href="https://learn2slither-web.vercel.app">Demo</a>
       </td>
     </tr>
     <tr>
-      <td><strong>cub3D</strong></td>
+      <td><strong>Cub3D</strong></td>
       <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — portes et minimap incluses.</td>
       <td align="center">
         <a href="https://github.com/vessfils/cub3d-web">Demo</a>
