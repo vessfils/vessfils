@@ -18,6 +18,32 @@
   <p>Ancien professionnel de la finance et diplômé de l’École 42, je me spécialise en développement logiciel, Machine Learning et Computer Vision.</p>
   <p>Je recherche actuellement un <strong>poste en CDI en Machine Learning</strong> afin de contribuer à des projets concrets mêlant programmation, IA et systèmes</p>
 
+  <h2>🚀 Démos à tester en ligne</h2>
+  <p>Deux projets 42 rejoués côté navigateur (aucune installation nécessaire) :</p>
+  <table align="center">
+    <tr>
+      <th style="text-align:left; padding:6px;">Projet</th>
+      <th style="text-align:left; padding:6px;">Description</th>
+      <th style="text-align:center; padding:6px;">Liens</th>
+    </tr>
+    <tr>
+      <td>🐍 <strong>learn2slither</strong></td>
+      <td>Un serpent qui apprend à jouer avec du Q-learning (Python/PyTorch) — regarde l'agent entraîné jouer, ou joue toi-même.</td>
+      <td align="center">
+        <a href="https://learn2slither-web.vercel.app">Démo</a> ·
+        <a href="https://github.com/vessfils/learn2slither-web">Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td>🧱 <strong>cub3D</strong></td>
+      <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — porté en JS/Canvas, portes et minimap incluses.</td>
+      <td align="center">
+        <a href="https://github.com/vessfils/cub3d-web">Code</a>
+        <!-- TODO: ajouter le lien de démo une fois déployé sur Vercel -->
+      </td>
+    </tr>
+  </table>
+
   <h2>💻 Compétences techniques</h2>
 
   <div>
@@ -66,8 +92,8 @@
 
   <h2>🏫 Mon parcours à l'école 42</h2>
   <p>
-    <a href="https://github.com/Nimon77/badge42">
-      <img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/stats?cursusId=21&coalitionId=48" alt="jcampagn's 42 stats" />
+    <a href="https://github.com/oakoudad/badge42">
+      <img src="https://badge.mediaplus.ma/darkblue/jcampagn" alt="jcampagn's 42 stats" width="360" />
     </a>
   </p>
 
@@ -84,115 +110,115 @@
   
   <tr>
     <td><strong>multilayer-perceptron</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4592142" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td> Création from scratch d’un réseau de neurones (MLP)</td>
   </tr>
   
   <tr>
     <td><strong>dslr</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4369527" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Analyse et visualisation des données, régression logistique <em>one-vs-all</em>.</td>
   </tr>
 
   <tr>
     <td><strong>ft_linear_regression</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4231493" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Premiers pas dans l’IA et le machine learning.</td>
   </tr>
 
   <tr>
     <td><strong>cloud1</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/4581516" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Automatisation Ansible d’une stack WordPress Docker avec persistance & TLS.</td>
   </tr>
 
   <tr>
     <td><strong>darkly</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3997407" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Découverte de la sécurité web via des challenges CTF.</td>
   </tr>
 
   <tr>
     <td><strong>Snow-Crash</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3589279" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Cybersécurité Linux via des défis CTF.</td>
   </tr>
 
   <tr>
     <td><strong>ft_transcendence</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3389832" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Projet fullstack NestJS/React : jeu multijoueur en ligne.</td>
   </tr>
 
   <tr>
     <td><strong>NetPractice</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2822795" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Apprentissage du routage IP et des réseaux.</td>
   </tr>
 
   <tr>
     <td><strong>cub3d</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2826097" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Moteur 3D raycasting façon Wolfenstein (SDL/C).</td>
   </tr>
 
   <tr>
     <td><strong>ft_irc</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3187523" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Serveur IRC complet en C++.</td>
   </tr>
 
   <tr>
     <td><strong>Born2beroot</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426651" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Installation & sécurisation d’une VM Debian (SSH, firewall, Fail2Ban…).</td>
   </tr>
 
   <tr>
     <td><strong>minishell</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2545400" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Mini-shell avec parsing, pipes & redirections.</td>
   </tr>
 
   <tr>
     <td><strong>Philosophers</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2531242" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Synchronisation multithread (problème des philosophes).</td>
   </tr>
 
   <tr>
     <td><strong>pipex</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2507754" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Reproduction du fonctionnement des pipes UNIX.</td>
   </tr>
 
   <tr>
     <td><strong>so_long</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2465928" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Petit jeu 2D avec déplacement, maps et ennemis.</td>
   </tr>
 
   <tr>
     <td><strong>ft_printf</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426653" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Reproduction complète de printf.</td>
   </tr>
 
   <tr>
     <td><strong>get_next_line</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2426338" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Lecture ligne par ligne depuis un file descriptor.</td>
   </tr>
 
   <tr>
     <td><strong>Inception</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/3079535" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Environnement Dockerisé (WordPress, NGINX, MariaDB, Redis…).</td>
   </tr>
 
   <tr>
     <td><strong>Libft</strong></td>
-    <td><img src="https://badge.nimon.fr/api/v2/cm8zpplgj7073001mz159bwes5/project/2414763" width="110"></td>
+    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
     <td>Bibliothèque standard en C : listes, mémoire, chaînes…</td>
   </tr>
 
