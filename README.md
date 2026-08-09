@@ -30,7 +30,7 @@
       <td>🐍 <strong>learn2slither</strong></td>
       <td>Un serpent qui apprend à jouer avec du Q-learning (Python/PyTorch) — regarde l'agent entraîné jouer, ou joue toi-même.</td>
       <td align="center">
-        <a href="https://learn2slither-web.vercel.app">Démo</a> ·
+        <a href="https://learn2slither-web.vercel.app">Démo</a>
       </td>
     </tr>
     <tr>
