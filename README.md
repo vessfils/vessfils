@@ -31,15 +31,13 @@
       <td>Un serpent qui apprend à jouer avec du Q-learning (Python/PyTorch) — regarde l'agent entraîné jouer, ou joue toi-même.</td>
       <td align="center">
         <a href="https://learn2slither-web.vercel.app">Démo</a> ·
-        <a href="https://github.com/vessfils/learn2slither-web">Code</a>
       </td>
     </tr>
     <tr>
       <td>🧱 <strong>cub3D</strong></td>
       <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — porté en JS/Canvas, portes et minimap incluses.</td>
       <td align="center">
-        <a href="https://github.com/vessfils/cub3d-web">Code</a>
-        <!-- TODO: ajouter le lien de démo une fois déployé sur Vercel -->
+        <a href="https://github.com/vessfils/cub3d-web">Demo</a>
       </td>
     </tr>
   </table>
