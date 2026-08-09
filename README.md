@@ -127,7 +127,7 @@
   <tr>
     <td><strong>Leaffliction</strong></td>
     <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>Classification de maladies de feuilles par vision par ordinateur : augmentation et transformation d’images (plantCV), puis classifieur entraîné avec >90% de précision.</td>
+    <td>Classification de maladies de feuilles par vision par ordinateur : augmentation et transformation d’images (plantCV), puis classification par réseau de neurones convolutif (CNN) entraîné avec >90% de précision.</td>
   </tr>
 
   <tr>
