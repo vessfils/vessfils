@@ -108,115 +108,115 @@
   
   <tr>
     <td><strong>multilayer-perceptron</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td> Création from scratch d’un réseau de neurones (MLP)</td>
   </tr>
   
   <tr>
     <td><strong>dslr</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Analyse et visualisation des données, régression logistique <em>one-vs-all</em>.</td>
   </tr>
 
   <tr>
     <td><strong>ft_linear_regression</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-123%25-2ea44f?style=flat-square" alt="123%"></td>
     <td>Premiers pas dans l’IA et le machine learning.</td>
   </tr>
 
   <tr>
     <td><strong>cloud1</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Automatisation Ansible d’une stack WordPress Docker avec persistance & TLS.</td>
   </tr>
 
   <tr>
     <td><strong>darkly</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Découverte de la sécurité web via des challenges CTF.</td>
   </tr>
 
   <tr>
     <td><strong>Snow-Crash</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Cybersécurité Linux via des défis CTF.</td>
   </tr>
 
   <tr>
     <td><strong>ft_transcendence</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Projet fullstack NestJS/React : jeu multijoueur en ligne.</td>
   </tr>
 
   <tr>
     <td><strong>NetPractice</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Apprentissage du routage IP et des réseaux.</td>
   </tr>
 
   <tr>
     <td><strong>cub3d</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-115%25-2ea44f?style=flat-square" alt="115%"></td>
     <td>Moteur 3D raycasting façon Wolfenstein (SDL/C).</td>
   </tr>
 
   <tr>
     <td><strong>ft_irc</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Serveur IRC complet en C++.</td>
   </tr>
 
   <tr>
     <td><strong>Born2beroot</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-106%25-2ea44f?style=flat-square" alt="106%"></td>
     <td>Installation & sécurisation d’une VM Debian (SSH, firewall, Fail2Ban…).</td>
   </tr>
 
   <tr>
     <td><strong>minishell</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-101%25-2ea44f?style=flat-square" alt="101%"></td>
     <td>Mini-shell avec parsing, pipes & redirections.</td>
   </tr>
 
   <tr>
     <td><strong>Philosophers</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Synchronisation multithread (problème des philosophes).</td>
   </tr>
 
   <tr>
     <td><strong>pipex</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Reproduction du fonctionnement des pipes UNIX.</td>
   </tr>
 
   <tr>
     <td><strong>so_long</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-110%25-2ea44f?style=flat-square" alt="110%"></td>
     <td>Petit jeu 2D avec déplacement, maps et ennemis.</td>
   </tr>
 
   <tr>
     <td><strong>ft_printf</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Reproduction complète de printf.</td>
   </tr>
 
   <tr>
     <td><strong>get_next_line</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Lecture ligne par ligne depuis un file descriptor.</td>
   </tr>
 
   <tr>
     <td><strong>Inception</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
     <td>Environnement Dockerisé (WordPress, NGINX, MariaDB, Redis…).</td>
   </tr>
 
   <tr>
     <td><strong>Libft</strong></td>
-    <td><img src="https://img.shields.io/badge/42-validated-2ea44f?style=flat-square" alt="validated"></td>
+    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
     <td>Bibliothèque standard en C : listes, mémoire, chaînes…</td>
   </tr>
 
