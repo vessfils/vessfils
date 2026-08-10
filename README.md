@@ -103,6 +103,7 @@
   <tr>
     <th style="text-align:center; padding:6px;">Projet</th>
     <th style="text-align:center; padding:6px;">Note</th>
+    <th style="text-align:center; padding:6px;">Technologies</th>
     <th style="text-align:left; padding:6px;">Description</th>
   </tr>
   
