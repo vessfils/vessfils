@@ -37,7 +37,7 @@
       <td><strong>Cub3D</strong></td>
       <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — portes et minimap incluses.</td>
       <td align="center">
-        <a href="https://github.com/vessfils/cub3d-web">Demo</a>
+        <a href="https://cub3d-web.vercel.app/">Demo</a>
       </td>
     </tr>
   </table>
