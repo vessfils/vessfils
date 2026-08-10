@@ -106,7 +106,12 @@
     <th style="text-align:center; padding:6px;">Technologies</th>
     <th style="text-align:left; padding:6px;">Description</th>
   </tr>
-  
+  <tr>
+  <td><strong>Learn2Slither</strong></td>
+  <td><img src="https://img.shields.io/badge/42-100%25-d4af37?style=flat-square" alt="100%"></td>
+  <td>Python, PyTorch, Pygame</td>
+  <td>Apprentissage par renforcement d’un agent Snake capable d’apprendre à jouer de manière autonome</td>
+</tr>
   <tr>
     <td><strong>multilayer-perceptron</strong></td>
     <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
