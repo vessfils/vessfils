@@ -110,6 +110,7 @@
   <tr>
     <td><strong>multilayer-perceptron</strong></td>
     <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
+    <td>Python, NumPy</td>
     <td> Création from scratch d’un réseau de neurones (MLP)</td>
   </tr>
   
