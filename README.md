@@ -133,7 +133,7 @@
   <tr>
     <td><strong>Tokenizer</strong></td>
     <td><img src="https://img.shields.io/badge/42-120%25-2ea44f?style=flat-square" alt="120%"></td>
-    <td>Création d’un token ERC20/BEP-20 sur la BNB Chain (testnet) : smart contract Solidity, déploiement et publication sur un explorateur de blockchain.</td>
+    <td>Création et déploiement d’un token ERC-20 en Solidity sur Ethereum (Sepolia testnet), avec tests automatisés et vérification des transactions sur un explorateur blockchain.</td>
   </tr>
 
   <tr>
