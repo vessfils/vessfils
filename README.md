@@ -139,7 +139,7 @@
   <tr>
     <td><strong>TokenizeArt</strong></td>
     <td><img src="https://img.shields.io/badge/42-101%25-2ea44f?style=flat-square" alt="101%"></td>
-    <td>Création d’un NFT ERC721/BEP-721 sur la BNB Chain : image stockée sur IPFS, smart contract Solidity et mint sur testnet.</td>
+    <td>Création et mint d’un NFT ERC-721 en Solidity sur Ethereum (Sepolia testnet), avec image et métadonnées stockées sur IPFS.</td>
   </tr>
 
   <tr>
