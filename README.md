@@ -91,7 +91,7 @@
   <h2>🏫 Mon parcours à l'école 42</h2>
   <p>
     <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/darkblue/jcampagn" alt="jcampagn's 42 stats" width="360" />
+      <img src="https://badge.mediaplus.ma/binary/jcampagn" alt="jcampagn's 42 stats" width="360" />
     </a>
   </p>
 
