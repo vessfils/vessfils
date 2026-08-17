@@ -273,3 +273,4 @@
   </div>
 
 </div>
+<a href="https://42cv.dev/jcampagn"><img src="https://42cv.dev/api/badge/cmsx3xc0900000kp4fc74xu5y/stats?cursusId=21&coalitionId=undefined" alt="jcampagn's 42 stats" /></a>
