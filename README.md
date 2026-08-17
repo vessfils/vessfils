@@ -273,4 +273,3 @@
   </div>
 
 </div>
-[![jcampagn's 42 stats](https://42cv.dev/api/badge/cmsx3xc0900000kp4fc74xu5y/stats?cursusId=21&coalitionId=undefined)](https://42cv.dev/jcampagn)
