@@ -14,8 +14,10 @@
       </td>
     </tr>
   </table>
+  <div align="center">
   <h1>Jean-François Campagnolle — ML & Computer Vision Engineer</h1>
   Ingénieur ML/Computer Vision, ancien professionnel de la finance (audit KPMG, consolidation CAC40 Veolia) reconverti via l'École 42.
+  </div>
   **Actuellement chez Veolia** (Direction de l'Expertise Scientifique et Technologique) :
   - conception d'un système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels. PyTorch,
   Vision Transformers (DINOv3), réseau siamois avec triplet loss.
