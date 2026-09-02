@@ -75,9 +75,6 @@ Je recherche un poste en **Machine Learning / Computer Vision**.
 
   <br>
   
-  <h2>🎯 Objectif actuel</h2>
-  <p>Je cherche un <strong>stage en <strong>machine learning</strong>, pour une durée de 6 mois.</p>
-
   <h3>📊 Statistiques GitHub</h3>
   <p>
     <a href="#">
