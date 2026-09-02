@@ -16,7 +16,8 @@
   </table>
   <h1>Jean-François Campagnolle — ML & Computer Vision Engineer</h1>
   <p>Ingénieur ML/Computer Vision, ancien professionnel de la finance (audit KPMG, consolidation CAC40 Veolia) reconverti via l'École 42.</p>
-  <p>Actuellement chez Veolia (Direction de l'Expertise Scientifique et Technologique) : conception d'un système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels. PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss. 84% de précision Rank-1, -50% de temps de suivi manuel. 3e Prix du Jury, Poster Trophy Veolia 2026.Je recherche un poste en Machine Learning / Computer Vision.</p>
+  <p>Actuellement chez Veolia (Direction de l'Expertise Scientifique et Technologique) : conception d'un système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels. PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss. 84% de précision Rank-1, -50% de temps de suivi manuel. 3e Prix du Jury, Poster Trophy Veolia 2026.</p>
+  <p>Je recherche un poste en Machine Learning / Computer Vision.</p>
 
   <h2>🚀 Démos à tester en ligne</h2>
   <p>Deux projets 42 rejoués côté navigateur (aucune installation nécessaire) :</p>
