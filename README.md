@@ -21,7 +21,7 @@
   84% de précision Rank-1, -50% de temps de suivi manuel. 3e Prix du Jury, Poster Trophy Veolia 2026.
   Je recherche un poste en Machine Learning / Computer Vision.
   <h2>📫 Me contacter</h2>
-  <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
+  <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-francois-campagnolle/">LinkedIn</a></p>
 
   <h2>🚀 Démos à tester en ligne</h2>
   <p>Deux projets 42 rejoués côté navigateur (aucune installation nécessaire) :</p>
