@@ -18,6 +18,8 @@
   <p>Ingénieur ML/Computer Vision, ancien professionnel de la finance (audit KPMG, consolidation CAC40 Veolia) reconverti via l'École 42.</p>
   <p>Actuellement chez Veolia (Direction de l'Expertise Scientifique et Technologique) : conception d'un système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels. PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss. 84% de précision Rank-1, -50% de temps de suivi manuel. 3e Prix du Jury, Poster Trophy Veolia 2026.</p>
   <p>Je recherche un poste en Machine Learning / Computer Vision.</p>
+  <h2>📫 Me contacter</h2>
+  <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
 
   <h2>🚀 Démos à tester en ligne</h2>
   <p>Deux projets 42 rejoués côté navigateur (aucune installation nécessaire) :</p>
@@ -68,9 +70,6 @@
   
   <h2>🎯 Objectif actuel</h2>
   <p>Je cherche un <strong>stage en <strong>machine learning</strong>, pour une durée de 6 mois.</p>
-
-  <h2>📫 Me contacter</h2>
-  <p><a href="mailto:jf.campagnolle@outlook.com">jf.campagnolle@outlook.com</a> | <a href="https://www.linkedin.com/in/jean-fran%C3%A7ois-campagnolle-97b94471/">LinkedIn</a></p>
 
   <h3>📊 Statistiques GitHub</h3>
   <p>
