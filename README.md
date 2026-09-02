@@ -22,8 +22,8 @@ Ingénieur ML/Computer Vision, ancien professionnel de la finance (audit KPMG, c
 
 **Actuellement chez Veolia** (Direction de l'Expertise Scientifique et Technologique) — système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels :
 
-- PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss, 84% de précision Rank-1, réduction de 50% du temps de suivi manuel
-- 3e Prix du Jury — Poster Trophy Veolia 2026
+PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss, 84% de précision Rank-1, réduction de 50% du temps de suivi manuel
+3e Prix du Jury — Poster Trophy Veolia 2026
 
 Je recherche un poste en **Machine Learning / Computer Vision**.
   <h2>📫 Me contacter</h2>
