@@ -112,7 +112,7 @@ Je recherche un poste en **Machine Learning / Computer Vision**.
   </tr>
   <tr>
   <td><strong>Learn2Slither</strong></td>
-  <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
+  <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="125%"></td>
   <td>Python, PyTorch, Pygame</td>
   <td>Apprentissage par renforcement d’un agent Snake capable d’apprendre à jouer de manière autonome</td>
 </tr>
