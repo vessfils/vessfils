@@ -71,6 +71,8 @@ Conception d'un **système de ré-identification de véhicules multi-caméras**,
   <img src="https://img.shields.io/badge/Notes_à_125%25-8-d4af37?style=for-the-badge" alt="8 projets à 125%" />
 </p>
 
+📄 CV 42 complet avec tous mes projets : **[42cv.dev/jcampagn](https://42cv.dev/jcampagn)**
+
 <details>
 <summary><strong>Voir les 23 projets validés et leurs notes</strong></summary>
 
