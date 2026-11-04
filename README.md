@@ -64,9 +64,11 @@ Conception d'un **système de ré-identification de véhicules multi-caméras**,
 ## Cursus École 42
 
 <p>
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/binary/jcampagn" alt="Profil 42 de jcampagn" width="360" />
+  <a href="https://profile.intra.42.fr/users/jcampagn">
+    <img src="https://img.shields.io/badge/42-jcampagn-000000?style=for-the-badge&logo=42&logoColor=white" alt="Profil 42 de jcampagn" />
   </a>
+  <img src="https://img.shields.io/badge/Projets_validés-23-2ea44f?style=for-the-badge" alt="23 projets validés" />
+  <img src="https://img.shields.io/badge/Notes_à_125%25-8-d4af37?style=for-the-badge" alt="8 projets à 125%" />
 </p>
 
 <details>
