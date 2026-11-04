@@ -1,279 +1,144 @@
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github-readme-stats-vessfils-projects.vercel.app" alt="vessfils's GitHub stats">
-          <img src="https://github-readme-stats-vessfils-projects.vercel.app/api?username=vessfils&count_private=true&show_icons=true&theme=gotham&custom_title=Mes%20statistiques%20GitHub" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github-readme-stats-vessfils-projects.vercel.app" alt="vessfils's top languages">
-          <img src="https://github-readme-stats-vessfils-projects.vercel.app/api/top-langs/?username=vessfils&layout=compact&langs_count=6&theme=gotham" />
-        </a>
-      </td>
-    </tr>
-  </table>
- <div align="center">
-  <h1>Jean-François Campagnolle — ML & Computer Vision Engineer</h1>
-</div>
-Ingénieur ML/Computer Vision, ancien professionnel de la finance (audit KPMG, consolidation IFRS chez Veolia — CAC 40), reconverti via l'École 42.
+# Jean-François Campagnolle
 
-**Actuellement chez Veolia** (Direction de l'Expertise Scientifique et Technologique) — système de ré-identification de véhicules multi-caméras déployé sur 16 sites industriels :
+### Ingénieur Machine Learning & Computer Vision
 
-- 84% de précision Rank-1, réduction de 50% du temps de suivi manuel
-- PyTorch, Vision Transformers (DINOv3), réseau siamois avec triplet loss
-- 3e Prix du Jury, Poster Trophy Veolia 2026
-Je recherche un poste en **Machine Learning / Computer Vision**.
-  <h2>📫 Me contacter</h2>
-  <p><a href="mailto:jf.campagnolle@outlook.fr">jf.campagnolle@outlook.fr</a> | <a href="https://www.linkedin.com/in/jean-francois-campagnolle/">LinkedIn</a></p>
+Ancien professionnel de la finance (audit KPMG, consolidation IFRS chez Veolia — CAC 40), reconverti dans l'IA via l'École 42.
 
-  <h2>🚀 Démos à tester en ligne</h2>
-  <p>Deux projets 42 rejoués côté navigateur (aucune installation nécessaire) :</p>
-  <table align="center">
-    <tr>
-      <th style="text-align:left; padding:6px;">Projet</th>
-      <th style="text-align:left; padding:6px;">Description</th>
-      <th style="text-align:center; padding:6px;">Liens</th>
-    </tr>
-    <tr>
-      <td><strong>Learn2slither</strong></td>
-      <td>Un serpent qui apprend à jouer avec du Q-learning (Python/PyTorch) — regarde l'agent entraîné jouer, ou joue toi-même.</td>
-      <td align="center">
-        <a href="https://learn2slither-web.vercel.app">Demo</a>
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Cub3D</strong></td>
-      <td>Un moteur de raycasting façon Wolfenstein 3D (C/miniLibX) — portes et minimap incluses.</td>
-      <td align="center">
-        <a href="https://cub3d-web.vercel.app/">Demo</a>
-      </td>
-    </tr>
-  </table>
+[![Portfolio](https://img.shields.io/badge/Portfolio-vessfils.github.io-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vessfils.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jean--François_Campagnolle-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-francois-campagnolle/)
+[![Email](https://img.shields.io/badge/Email-jf.campagnolle@outlook.fr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:jf.campagnolle@outlook.fr)
 
-  <h2>💻 Compétences techniques</h2>
-
-  <div>
-    <h3>Langages</h3>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,sql,bash" height="40" />
-  </div>
-
-  <br>
-
-  <div>
-    <h3>Frameworks / Tech</h3>
-    <img src="https://skillicons.dev/icons?i=react,nestjs,docker,vite" height="40" />
-  </div>
-
-  <br>
-
-  <div>
-    <h3>Outils</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="40" />
-  </div>
-
-  <br>
-  
-  <h3>📊 Statistiques GitHub</h3>
-  <p>
-    <a href="#">
-      <img src="https://komarev.com/ghpvc/?username=vessfils&label=Profile%20views&color=0e75b6&style=flat" alt="Views counter"/>
-    </a>
-    &nbsp;
-    </p>
-    <p>
-     <a href="https://www.leetcode.com/Vessfils">
-      <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="Leetcode Profile Link" height="45" width="45"/></a> 
-      &nbsp;
-    <a href="https://www.codingame.com/profile/49370ae895aeaf690b539e0356a545a00230944">
-      <img src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg" alt="Codingame Profile Link" height="45" width="45" hspace="4"/>
-    </a>
-  </p>
-
-
-  <h2>🏫 Mon parcours à l'école 42</h2>
-  <p>
-    <a href="https://github.com/oakoudad/badge42">
-      <img src="https://badge.mediaplus.ma/binary/jcampagn" alt="jcampagn's 42 stats" width="360" />
-    </a>
-  </p>
-
-
- <h2>📚 Projets terminés à 42</h2>
-<p>Voici un aperçu de quelques projets réalisés à 42 avec leur score et un résumé rapide de ce qu'ils m'ont apporté :</p>
-
-<table align="center">
-  <tr>
-    <th style="text-align:center; padding:6px;">Projet</th>
-    <th style="text-align:center; padding:6px;">Note</th>
-    <th style="text-align:center; padding:6px;">Technologies</th>
-    <th style="text-align:left; padding:6px;">Description</th>
-  </tr>
-  <tr>
-  <td><strong>Learn2Slither</strong></td>
-  <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-  <td>Python, PyTorch, Pygame</td>
-  <td>Apprentissage par renforcement d’un agent Snake capable d’apprendre à jouer de manière autonome</td>
-</tr>
-  <tr>
-    <td><strong>multilayer-perceptron</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>Python, NumPy</td>
-    <td> Création from scratch d’un réseau de neurones (MLP)</td>
-  </tr>
-  
-  <tr>
-    <td><strong>dslr</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>Python, Pandas, Matplotlib</td>
-    <td>Analyse et visualisation des données, régression logistique <em>one-vs-all</em>.</td>
-  </tr>
-
-  <tr>
-    <td><strong>ft_linear_regression</strong></td>
-    <td><img src="https://img.shields.io/badge/42-123%25-2ea44f?style=flat-square" alt="123%"></td>
-    <td>Python</td>
-    <td>Premiers pas dans l’IA et le machine learning.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Leaffliction</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>Python, PlantCV, Pytorch</td>
-    <td>Classification de maladies de feuilles par vision par ordinateur : augmentation et transformation d’images (plantCV), puis classification par réseau de neurones convolutif (CNN) entraîné avec >90% de précision.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Tokenizer</strong></td>
-    <td><img src="https://img.shields.io/badge/42-120%25-2ea44f?style=flat-square" alt="120%"></td>
-    <td>Solidity, Hardhat, Ethereum</td>
-    <td>Création et déploiement d’un token ERC-20 en Solidity sur Ethereum (Sepolia testnet), avec tests automatisés et vérification des transactions sur un explorateur blockchain.</td>
-  </tr>
-
-  <tr>
-    <td><strong>TokenizeArt</strong></td>
-    <td><img src="https://img.shields.io/badge/42-101%25-2ea44f?style=flat-square" alt="101%"></td>
-    <td>Solidity, Hardhat, Ethereum, IPFS</td>
-    <td>Création et mint d’un NFT ERC-721 en Solidity sur Ethereum (Sepolia testnet), avec image et métadonnées stockées sur IPFS.</td>
-  </tr>
-
-  <tr>
-    <td><strong>cloud1</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>Ansible, Docker, NGINX</td>
-    <td>Automatisation Ansible d’une stack WordPress Docker avec persistance & TLS.</td>
-  </tr>
-
-  <tr>
-    <td><strong>darkly</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>Web, Security</td>
-    <td>Découverte de la sécurité web via des challenges CTF.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Snow-Crash</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>Linux, Bash, Security</td>
-    <td>Cybersécurité Linux via des défis CTF.</td>
-  </tr>
-
-  <tr>
-    <td><strong>ft_transcendence</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>TypeScript, NestJS, React</td>
-    <td>Projet fullstack NestJS/React : jeu multijoueur en ligne.</td>
-  </tr>
-
-  <tr>
-    <td><strong>NetPractice</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>TCP/IP, Networking</td>
-    <td>Apprentissage du routage IP et des réseaux.</td>
-  </tr>
-
-  <tr>
-    <td><strong>cub3d</strong></td>
-    <td><img src="https://img.shields.io/badge/42-115%25-2ea44f?style=flat-square" alt="115%"></td>
-    <td>C, MinilibX</td>
-    <td>Moteur 3D raycasting façon Wolfenstein (SDL/C).</td>
-  </tr>
-
-  <tr>
-    <td><strong>ft_irc</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>C++, TCP/IP</td>
-    <td>Serveur IRC complet en C++.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Born2beroot</strong></td>
-    <td><img src="https://img.shields.io/badge/42-106%25-2ea44f?style=flat-square" alt="106%"></td>
-    <td>Linux, Debian, SSH</td>
-    <td>Installation & sécurisation d’une VM Debian (SSH, firewall, Fail2Ban…).</td>
-  </tr>
-
-  <tr>
-    <td><strong>minishell</strong></td>
-    <td><img src="https://img.shields.io/badge/42-101%25-2ea44f?style=flat-square" alt="101%"></td>
-    <td>C, Unix</td>
-    <td>Mini-shell avec parsing, pipes & redirections.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Philosophers</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>C, pthreads</td>
-    <td>Synchronisation multithread (problème des philosophes).</td>
-  </tr>
-
-  <tr>
-    <td><strong>pipex</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>C, Unix</td>
-    <td>Reproduction du fonctionnement des pipes UNIX.</td>
-  </tr>
-
-  <tr>
-    <td><strong>so_long</strong></td>
-    <td><img src="https://img.shields.io/badge/42-110%25-2ea44f?style=flat-square" alt="110%"></td>
-    <td>C, MiniLibX</td>
-    <td>Petit jeu 2D avec déplacement, maps et ennemis.</td>
-  </tr>
-
-  <tr>
-    <td><strong>ft_printf</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>C</td>
-    <td>Reproduction complète de printf.</td>
-  </tr>
-
-  <tr>
-    <td><strong>get_next_line</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>C</td>
-    <td>Lecture ligne par ligne depuis un file descriptor.</td>
-  </tr>
-
-  <tr>
-    <td><strong>Inception</strong></td>
-    <td><img src="https://img.shields.io/badge/42-100%25-2ea44f?style=flat-square" alt="100%"></td>
-    <td>Docker, Docker Compose, NGINX, MariaDB</td>
-    <td>Environnement Dockerisé (WordPress, NGINX, MariaDB, Redis…).</td>
-  </tr>
-
-  <tr>
-    <td><strong>Libft</strong></td>
-    <td><img src="https://img.shields.io/badge/42-125%25-d4af37?style=flat-square" alt="125%"></td>
-    <td>C</td>
-    <td>Bibliothèque standard en C : listes, mémoire, chaînes…</td>
-  </tr>
-
-</table>
-
-
-    
-  </div>
+**🔎 Ouvert aux opportunités en Machine Learning / Computer Vision**
 
 </div>
+
+---
+
+## Expérience actuelle
+
+**Veolia** — Direction de l'Expertise Scientifique et Technologique
+
+Conception d'un **système de ré-identification de véhicules multi-caméras**, déployé sur **16 sites industriels**.
+
+| Résultat | Détail |
+|---|---|
+| **84 %** de précision Rank-1 | Ré-identification d'un même véhicule entre caméras |
+| **−50 %** de temps de suivi manuel | Gain opérationnel mesuré sur site |
+| **3e Prix du Jury** | Poster Trophy Veolia 2026 |
+
+**Stack :** PyTorch · Vision Transformers (DINOv3) · Réseau siamois · Triplet loss
+
+---
+
+## Projets phares
+
+| Projet | Domaine | Description | |
+|---|---|---|:---:|
+| **Learn2Slither** | Reinforcement Learning | Agent Snake entraîné par Q-learning (Python, PyTorch). Regardez l'agent jouer ou jouez vous-même dans le navigateur. | [▶ Démo](https://learn2slither-web.vercel.app) |
+| **Leaffliction** | Computer Vision | Classification de maladies de feuilles : augmentation d'images (PlantCV) puis CNN en PyTorch, **> 90 %** de précision. | |
+| **multilayer-perceptron** | Deep Learning | Réseau de neurones (MLP) implémenté from scratch en NumPy : propagation, rétropropagation, optimisation. | |
+| **dslr** | Data Science | Analyse et visualisation de données, régression logistique *one-vs-all* (Pandas, Matplotlib). | |
+| **Cub3D** | Graphisme / C | Moteur de raycasting façon Wolfenstein 3D en C (miniLibX), avec portes et minimap. Porté dans le navigateur. | [▶ Démo](https://cub3d-web.vercel.app/) |
+
+👉 Plus de détails, visuels et démos sur mon **[portfolio](https://vessfils.github.io)**.
+
+---
+
+## Compétences techniques
+
+| | |
+|---|---|
+| **Machine Learning** | PyTorch, Vision Transformers, CNN, réseaux siamois, Reinforcement Learning, NumPy, Pandas, Matplotlib |
+| **Langages** | Python, C, C++, TypeScript, SQL, Bash |
+| **Web & DevOps** | React, NestJS, Vite, Docker, Ansible, NGINX |
+| **Outils** | Git, GitHub, Linux, VS Code |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,c,cpp,ts,sql,bash,react,nestjs,docker,git,linux" height="40" alt="Stack technique" />
+</p>
+
+---
+
+## Cursus École 42
+
+<p>
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/jcampagn" alt="Profil 42 de jcampagn" width="360" />
+  </a>
+</p>
+
+<details>
+<summary><strong>Voir les 23 projets validés et leurs notes</strong></summary>
+
+<br>
+
+**Intelligence artificielle & Data**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| Learn2Slither | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | Python, PyTorch, Pygame | Agent Snake autonome par apprentissage par renforcement |
+| multilayer-perceptron | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | Python, NumPy | Réseau de neurones (MLP) from scratch |
+| dslr | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | Python, Pandas, Matplotlib | Analyse de données et régression logistique *one-vs-all* |
+| ft_linear_regression | ![123%](https://img.shields.io/badge/123%25-2ea44f?style=flat-square) | Python | Régression linéaire par descente de gradient |
+| Leaffliction | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | Python, PlantCV, PyTorch | Classification d'images par CNN (> 90 % de précision) |
+
+**Blockchain**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| Tokenizer | ![120%](https://img.shields.io/badge/120%25-2ea44f?style=flat-square) | Solidity, Hardhat, Ethereum | Token ERC-20 déployé sur Sepolia, avec tests automatisés |
+| TokenizeArt | ![101%](https://img.shields.io/badge/101%25-2ea44f?style=flat-square) | Solidity, Hardhat, IPFS | NFT ERC-721 avec métadonnées stockées sur IPFS |
+
+**Sécurité**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| darkly | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | Web, Security | Sécurité web via des challenges CTF |
+| Snow-Crash | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | Linux, Bash | Exploitation de failles Linux via des challenges CTF |
+
+**DevOps, systèmes & réseaux**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| cloud1 | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | Ansible, Docker, NGINX | Déploiement automatisé d'une stack WordPress avec persistance et TLS |
+| Inception | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | Docker Compose, NGINX, MariaDB | Infrastructure conteneurisée (WordPress, NGINX, MariaDB, Redis) |
+| Born2beroot | ![106%](https://img.shields.io/badge/106%25-2ea44f?style=flat-square) | Linux, Debian, SSH | Installation et sécurisation d'une VM (SSH, pare-feu, Fail2Ban) |
+| NetPractice | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | TCP/IP | Adressage et routage IP |
+| ft_irc | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | C++, TCP/IP | Serveur IRC complet |
+
+**Développement web**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| ft_transcendence | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | TypeScript, NestJS, React | Application fullstack : jeu multijoueur en ligne |
+
+**Programmation C / Unix**
+
+| Projet | Note | Technologies | Description |
+|---|:---:|---|---|
+| cub3d | ![115%](https://img.shields.io/badge/115%25-2ea44f?style=flat-square) | C, MiniLibX | Moteur 3D par raycasting |
+| so_long | ![110%](https://img.shields.io/badge/110%25-2ea44f?style=flat-square) | C, MiniLibX | Jeu 2D avec maps et ennemis |
+| minishell | ![101%](https://img.shields.io/badge/101%25-2ea44f?style=flat-square) | C, Unix | Shell avec parsing, pipes et redirections |
+| Philosophers | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | C, pthreads | Synchronisation multithread |
+| pipex | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | C, Unix | Reproduction des pipes UNIX |
+| get_next_line | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | C | Lecture ligne par ligne depuis un file descriptor |
+| ft_printf | ![100%](https://img.shields.io/badge/100%25-2ea44f?style=flat-square) | C | Réimplémentation de printf |
+| Libft | ![125%](https://img.shields.io/badge/125%25-d4af37?style=flat-square) | C | Bibliothèque standard en C |
+
+</details>
+
+---
+
+## Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-vessfils-projects.vercel.app/api?username=vessfils&count_private=true&show_icons=true&theme=gotham&hide_border=true" height="165" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats-vessfils-projects.vercel.app/api/top-langs/?username=vessfils&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="165" alt="Langages principaux" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Vessfils"><img src="https://img.shields.io/badge/LeetCode-Vessfils-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.codingame.com/profile/49370ae895aeaf690b539e0356a545a00230944"><img src="https://img.shields.io/badge/CodinGame-Profil-F2BB13?style=flat-square&logo=codingame&logoColor=black" alt="CodinGame" /></a>
+</p>
